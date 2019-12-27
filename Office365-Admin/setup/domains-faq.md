@@ -96,6 +96,13 @@ A domain is a unique name that appears after the **@** sign in email addresses, 
 Using a custom domain like "**rob\@contoso.com**" with Office 365 can help build credibility and recognition for your brand. 
   
 You can [buy a domain in Office 365 and we'll set it up automatically](../get-help-with-domains/buy-a-domain-name.md), or you can buy or bring one you already own from a domain registrar.
+
+## What is a domain name extension?
+A domain extension is the last part of a domain name. For example, ".com" is the extension of "microsoft.com" domain. 
+
+There are over thousands of domain extensions available on the internet. However, only a few of them are most popular and widely used such as .com, .net, .org, .edu, etc. These domain extensions were created to differentiate different kinds of websites. For example, .com is primarily used for commercial businesses, .net is used for networking related websites and businesses, .org is used for non-profit organizations.
+
+If you are going to start a website, whether a business or non-profit organzation, you need to know the difference between domain extensions. Get full details <a href="https://www.wpmyweb.com/beginners-guide/com-vs-net.html" target="_blank">here</a>.
   
 ## Can I transfer a domain I purchased from Microsoft to another provider?
 
